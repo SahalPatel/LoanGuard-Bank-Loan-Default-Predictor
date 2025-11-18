@@ -2,7 +2,7 @@
 
 A reproducible machine learning pipeline for predicting loan defaults using tabular credit data. The project includes data cleaning, feature engineering, model training, evaluation, and example code to export predictions. Built as a Jupyter notebook and easily extensible to scripts or a REST API.
 
-## 🚀 Features
+##  Features
 - Data preprocessing and missing value handling
 - Categorical encoding and feature engineering
 - Model training with scikit-learn (e.g., Logistic Regression, Random Forest, XGBoost)
@@ -11,7 +11,7 @@ A reproducible machine learning pipeline for predicting loan defaults using tabu
 - Notebook walkthrough with visualizations (feature importance, ROC curve)
 
 
-## 🧾 Dataset (expected format)
+##  Dataset (expected format)
 The notebook expects a CSV with one row per applicant. Typical columns:
 - `loan_id` (optional) — unique id  
 - `loan_amount`  
